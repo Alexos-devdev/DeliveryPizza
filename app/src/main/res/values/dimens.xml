@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_horizontal_login">32dp</dimen>
+    <dimen name="textsize_donthaveaccount">16dp</dimen>
+    <dimen name="Correo">16dp</dimen>
+    <dimen name="Contraseña">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="editText_margin_createAccount">12dp</dimen>
+</resources>

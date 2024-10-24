@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DeliveryPizza" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Theme.DeliveryPizza" parent="Base.Theme.DeliveryPizza" />
+    <style name="RaisedButtonDark" parent="Theme.AppCompat.Light">
+
+        <item  name="android:backgroundTint"   > @color/colorPrimaryDark     </item>
+        <item  name="android:foregroundTint"   > @color/colorPrimary    </item>
+        <item  name="android:textColor"   >@android:color/white     </item>
+
+    </style>
+    <style  name="EditTextWhite" parent="TextAppearance.AppCompat"   >
+        <item  name="android:textColorHint"  >@color/editTextColorWhite</item>
+        <item  name="android:textColor"  >@color/editTextColorWhite</item>
+        <item  name="hintTextColor"  >@color/editTextColorWhite</item>
+        <item  name="boxStrokeColor"  >@color/editTextColorWhite</item>
+        <item  name="android:textSize" >@dimen/login_edittext_size</item>
+    </style>
+
+
+
+
+
+    <dimen name="login_edittext_size">20dp</dimen>
+</resources>

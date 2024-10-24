@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Delivery Pizza</string>
+    <string name="hint_username" translatable="false">Usuario</string>
+    <string name="hint_password" translatable="false">Contraseña</string>
+    <string name="text_button_login" translatable="false">Ingresar</string>
+    <string name="dont_have_account" translatable="false">¿No tienes una cuenta?</string>
+    <string name="create_here" translatable="false">Crea uno aqui</string>
+    <string name="cart">16dp</string>
+    <string name="text_button_createAccount">Registrar</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_user">Nombre de Usuario</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="registrar_usuario_nuevo">Registrar Usuario Nuevo</string>
+</resources>
